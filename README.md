@@ -1977,13 +1977,6 @@ print(normalize_rectangle( (0.0, 0.0, 5.0, 1.0) ))
 ```
 
 
-## Command Line Programs
-
-This section is about some of the things that can be run in the Linux Command Line
-
-
-
-
 ## Transcribing DNA into RNA
 
 This was coding a DNA sequnce into an RNA sequences fully using Python
